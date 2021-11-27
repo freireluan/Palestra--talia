@@ -15,8 +15,7 @@
     margin:1.7rem;
     display:flex;  
     flex-wrap: wrap; 
-    margin-rigth:0.7rem;
-     
+   
 }
 .jogador:hover{
     cursor: pointer;
@@ -26,7 +25,7 @@
 .jogador{
     display:inline-block;
     text-align: center;
-    
+    margin-rigth:0.6rem;
     margin:0.6rem;
     padding:0.4rem;
     border: 0.7px solid rgba(23,23,23,0.9);
