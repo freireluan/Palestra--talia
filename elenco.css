@@ -75,6 +75,8 @@
         width: 45%;
     }
     .jogadoresm, .jogadoresd,.jogadoresg, .jogadoresa{
+         margin:2rem;
+        margin-left: 1rem;
         flex-direction: row;
         flex-wrap: wrap;
         justify-content: space-around;
