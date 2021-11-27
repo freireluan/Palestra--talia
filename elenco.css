@@ -8,16 +8,14 @@
 .imagem{
     margin:0;
 }
-.site__titulo{
-    color:"red";
-    text-decoration: none;
-}
+
 
 .jogadoresm, .jogadoresd,.jogadoresg, .jogadoresa{
     border:1px solid transparent;
     margin:1.7rem;
     display:flex;  
     flex-wrap: wrap; 
+    margin-rigth:0.7rem;
      
 }
 .jogador:hover{
